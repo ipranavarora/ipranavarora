@@ -1,12 +1,12 @@
-Hi, I am Pranav Arora.
-I'm a pre-final year engineering undergrad student with a passion for frontend web development. I've been in the field for more than a year now, and I've had the pleasure of working with various tech stacks. From crafting simple HTML, CSS, and JavaScript websites to building complex web applications with React.js, and Tailwind CSS.
+Hi, my name is Pranav Arora.
+I'm a pre-final year engineering undergrad student with a passion for sull stack development. I've been in the field for more than a year now, and I've had the pleasure of working with various tech stacks. From crafting simple HTML, CSS, and JavaScript websites to building complex web applications with React.js, Node.js, MongoDB and Tailwind CSS.
 
 Frontend web development is a dynamic and fast-moving field, and I love keeping myself up-to-date with the latest technologies while maintaining a strong foundation in the basics.
 
 ## What I bring to the table:
 
 - 💻 Proficient in HTML, CSS, JavaScript, and React.
-- 🌐 Experienced in building web apps with React.js and Tailwind CSS.
+- 🌐 Experienced in building web apps with React.js, Node.js, MongoDB and Tailwind CSS.
 - 🎨 Skilled in designing responsive and user-friendly interfaces.
 - 📊 Interest in data structures and algorithm problems, especially in C++.
 - ☕ Knowledge of Java for versatile programming.
